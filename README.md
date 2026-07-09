@@ -318,9 +318,11 @@ This project demonstrates:
 # 👨‍💻 Authors
 
 **Ahmed Magdy Hassan**
+
 ML Engineer
 
 **Ahmed Abdulrahman Mohamed Amin**
+
 Backend Developer | Django Developer
 
 Faculty of Computers and Artificial Intelligence  
